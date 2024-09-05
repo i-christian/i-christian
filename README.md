@@ -17,7 +17,7 @@ I'm a passionate software engineer with interest in fullstack development, and m
 
 ## Contact
 - **GitHub**: [i-christian](https://github.com/i-christian)
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/i-christian)
+- **LinkedIn**: [i-christian](https://www.linkedin.com/in/i-christian)
 
 ## Fun Facts
 - 🔊 Prefers silence during coding & study sessions to maintain focus.
