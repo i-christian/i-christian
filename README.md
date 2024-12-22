@@ -4,14 +4,14 @@
 ## About Me
 I'm a passionate software engineer with interest in fullstack development, and machine learning. I enjoy working with a variety of technologies and always strive to learn and improve my skills. 
 
-- 🖥️ Proficient in Rust, Python, JavaScript, and TypeScript.
+- 🖥️ Proficient in Rust, Go, Python, JavaScript, and TypeScript.
 - 🌐 Interested in server-side development, using frameworks like Axum and FastAPI.
 - 📚 Currently mastering Rust programming.
 - 🔍 Exploring new full-stack frameworks and modern web development techniques.
 
 ## Skills
-- **Languages**: Rust, Python, JavaScript, TypeScript, C
-- **Backend Development**: Node.js, Express.js, FastAPI, PostgreSQL, Prisma
+- **Languages**: Rust, Go, Python, JavaScript, TypeScript, C
+- **Backend Development**: Axum, Express.js, FastAPI, PostgreSQL, MySQL
 - **Frontend Development**: ReactJS, TailwindCSS, SolidJS
 - **DevOps**: Linux shell scripting, Docker
 
