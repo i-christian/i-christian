@@ -10,14 +10,13 @@ I'm a passionate software engineer with interest in fullstack development, and m
 
 ## Skills
 - **Languages**: Rust, Go, Python, SQL, JavaScript, TypeScript, C
-- **Backend Development**: Axum, Express.js, FastAPI, Django
+- **Backend Development**: Go, Axum, Express.js, FastAPI, Django
 - **Databases**: PostgreSQL, MySQL, SQLite3
 - **Frontend Development**: ReactJS, TailwindCSS, SolidJS
 - **DevOps**: Linux shell scripting, Docker, Github actions
 
 ## Contact
 - **GitHub**: [i-christian](https://github.com/i-christian)
-- **LinkedIn**: [i-christian](https://www.linkedin.com/in/i-christian)
 
 ## Fun Facts
 - 🔊 Prefers quiet coding & study sessions.
